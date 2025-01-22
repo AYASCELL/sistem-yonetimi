@@ -20,8 +20,8 @@ UYARI: Türkçe Karakter sorunu yaşamamanız için "Sistem Yönetimi - AYASCELL
 
 virus total: https://www.virustotal.com/gui/file/612cebcd60ae3272871245dfbe35ebe6d59fc9dbcff894deb82c6b5cc581e215
 
-![Ekran görüntüsü 2025-01-22 190221](https://github.com/user-attachments/assets/e1686614-889e-45a6-96be-119b1798da62)
-![Ekran görüntüsü 2025-01-22 190318](https://github.com/user-attachments/assets/c2d57738-45a9-45a5-adab-64675ccd7791)
-![Ekran görüntüsü 2025-01-21 205728](https://github.com/user-attachments/assets/bd216be9-ebbc-4ed7-88dd-93057ad08696)
-![Ekran görüntüsü 2025-01-22 190031](https://github.com/user-attachments/assets/051bb147-d0f8-407d-9a9f-8dc6932f6c19)
+![1](https://github.com/user-attachments/assets/e3ae12a4-b811-4470-92db-30e5ef1033ca)
 
+![2](https://github.com/user-attachments/assets/fbe06afe-9d33-46bb-bf04-bda4edf9525f)
+
+![3](https://github.com/user-attachments/assets/35921312-1d99-4c0a-bf36-2d4dd54a8741)
