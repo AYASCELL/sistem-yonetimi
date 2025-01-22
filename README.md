@@ -16,6 +16,6 @@ Bu bat uygulaması aşağıdaki işlevleri içerir:
 
 UYARI: Bu uygulamayı yönetici izni ile başlatmanız önerilir. Aksi takdirde bazı işlevler çalışmayabilir veya başarısızlıkla sonuçlanabilir !!!
 
-UYARI: Türkçe Karakter sorunu yaşamamanız için "Sistem Yönetimi - AYASCELL - İngilizce karakter.bat" ı indirin
+UYARI: Türkçe Karakter sorunu yaşamamanız için "Sistem Yönetimi - AYASCELL - İngilizce karakter.bat" ı indirin!!!
 
 virus total: https://www.virustotal.com/gui/file/612cebcd60ae3272871245dfbe35ebe6d59fc9dbcff894deb82c6b5cc581e215
